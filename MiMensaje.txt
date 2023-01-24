@@ -3,4 +3,6 @@ hermoso
 
 Estamos cambiando el mundo
 He agregado esta linea de código
+voy a ir a la playa a bañarme con agua salada
+texto_nuevo
 
